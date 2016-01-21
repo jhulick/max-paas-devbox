@@ -1,4 +1,4 @@
-# MAX PaaS official "development box"
+# MAX PaaS "development box"
 
 ## Introduction
 
